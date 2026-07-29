@@ -2,8 +2,8 @@
 
 [![Project Website](https://img.shields.io/badge/Website-one--ring--policy.allen.ai-blue)](https://one-ring-policy.allen.ai/)
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2412.14401)
-[![Model](https://img.shields.io/badge/HuggingFace-Checkpoint-yellow?logo=huggingface)](https://huggingface.co/AinazEftekhar/OneRING)
-[![Data](https://img.shields.io/badge/HuggingFace-Checkpoint-yellow?logo=huggingface)](https://huggingface.co/datasets/allenai/ring-data)
+[![Model](https://img.shields.io/badge/HuggingFace-Model-yellow?logo=huggingface)](https://huggingface.co/AinazEftekhar/OneRING)
+[![Data](https://img.shields.io/badge/HuggingFace-Data-yellow?logo=huggingface)](https://huggingface.co/datasets/allenai/ring-data)
 
 **RING (Robotic Indoor Navigation Generalist)** is a generalist policy for indoor visual navigationy trained *solely in simulation* with diverse randomly initialized embodiments at scale (**1 Million** embodiments). RING achieves robust performance on unseen robot platforms (RB-Y1, Stretch RE-1, LoCoBot, Unitree's Go1) in the real world, despite being trained exclusively in simulation **without** any direct exposure to real robot embodiments.
 
